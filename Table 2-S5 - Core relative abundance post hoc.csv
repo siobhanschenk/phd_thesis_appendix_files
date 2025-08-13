@@ -1,0 +1,8 @@
+Comparison,Core relative abundance tested,p-value
+spool vs above_meristem,micro,1.96E-19
+spool vs juvenile_kelp,micro,1.74E-05
+spool vs kelp,micro,5.73E-05
+spool vs meristem,micro,3.23E-44
+spore_solution vs spool,micro,0.003715105
+sterile_sori vs spool,micro,6.25E-10
+unsterilized_sori vs spool,micro,1.47E-08

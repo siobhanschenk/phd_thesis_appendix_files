@@ -1,0 +1,22 @@
+phylum,order,genus,asv_id,present in number of spool samples,mean relative abundance when present
+Proteobacteria,Gammaproteobacteria_Incertae_Sedis,Unknown_Family,ASV1108,4,0.016
+Proteobacteria,Legionellales,Legionellaceae,ASV1141,8,0.011
+Bacteroidota,Flavobacteriales,Flavobacteriales,ASV1244,23,0.002
+Proteobacteria,Rhodobacterales,Thalassobius,ASV1694,5,0.013
+Planctomycetota,OM190,OM190,ASV269,16,0.032
+Bacteroidota,Cytophagales,Cyclobacterium,ASV299,23,0.013
+Proteobacteria,Caulobacterales,Hyphomonas,ASV333,26,0.004
+Bacteroidota,Flavobacteriales,Polaribacter,ASV354,6,0.016
+Bacteroidota,Cytophagales,Fabibacter,ASV389,26,0.006
+Bacteroidota,Flavobacteriales,NS9_marine_group,ASV417,13,0.013
+Proteobacteria,Alteromonadales,Glaciecola,ASV449,15,0.012
+Bacteroidota,Flavobacteriales,Polaribacter,ASV485,6,0.018
+Proteobacteria,Burkholderiales,Aquabacterium,ASV5093,4,0.013
+Proteobacteria,Oceanospirillales,Saccharospirillaceae,ASV514,10,0.017
+Bacteroidota,Chitinophagales,Chitinophagales,ASV550,20,0.014
+Proteobacteria,Sphingomonadales,Sphingorhabdus,ASV578,5,0.017
+Proteobacteria,Legionellales,Legionellaceae,ASV589,11,0.011
+Bacteroidota,Flavobacteriales,Ulvibacter,ASV732,25,0.002
+Actinobacteriota,Micrococcales,Microbacteriaceae,ASV842,29,0.004
+Proteobacteria,Cellvibrionales,C1-B045,ASV846,27,0.004
+Proteobacteria,Oceanospirillales,Neptuniibacter,ASV920,6,0.025
